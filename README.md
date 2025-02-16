@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Tymbert Environment Setup](#tymbert-environment-setup)
+- [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation Steps](#installation-steps)
 - [Updating the Environment](#updating-the-environment)
