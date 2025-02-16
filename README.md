@@ -1,4 +1,4 @@
-# Tymbert Environment Setup
+# Tymbert
 
 ## Table of Contents
 
@@ -11,6 +11,10 @@
 - [Datasets](#datasets)
 - [Additional References](#additional-references)
 - [License](#license)
+
+## Introduction
+
+TYMBert is our submission for NCIM 2025, a spam classifier that makes use of knowledge distillation to compress the model while preserving accuracy
 
 This repository provides a Conda environment configuration file (`environment.yml`) for setting up the `tymbert` environment. Follow the steps below to install and configure it correctly on your system.
 
@@ -104,3 +108,4 @@ Quantization Logic and Code was used with the help of [GitHub - BERT-Quantizatio
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+````
