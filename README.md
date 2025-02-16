@@ -32,8 +32,6 @@ This repository provides a Conda environment configuration file (`environment.ym
    cd TYMBert
    ```
 
-````
-
 2. **Create the Conda Environment**
    Run the following command to create the `tymbert` environment from the `environment.yml` file:
 
@@ -107,5 +105,3 @@ Quantization Logic and Code was used with the help of [GitHub - BERT-Quantizatio
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-````
